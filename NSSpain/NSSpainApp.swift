@@ -11,7 +11,7 @@ import SwiftUI
 struct NSSpainApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ChartView()
         }
     }
 }
